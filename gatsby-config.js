@@ -44,8 +44,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Novela by Narative`,
-        short_name: `Novela`,
+        name: `#DevAfrica by Obsaa Abdalhalim`,
+        short_name: `#DevAfrica`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#fff`,
