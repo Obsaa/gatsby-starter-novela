@@ -5,7 +5,7 @@ module.exports = {
     siteUrl: `https://obsaa.com`,
     description: `Exploration of human development at the intersection tech, social media, human rights, and developing markets.`,
     hero: {
-      heading: `Welcome to the home #DevAfrica blog and soon to follow podcast. I hope to create content that explores human development at the intersection tech, social media, human rights, and developing markets.`,
+      heading: `Analysis of unique resources at the convergence of technology, social media, human rights, capacity development in the emerging markets. #DevAfrica #OromoProtests #TigrayGenocide #EastAfrica #Oromia #Ethiopia`,
       maxWidth: 652,
     },
     social: [
